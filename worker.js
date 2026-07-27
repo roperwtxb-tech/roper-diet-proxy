@@ -1,4 +1,5 @@
 // Roper Diet Guide — Anthropic API proxy
+// Connected to GitHub for automatic deploys.
 //
 // This Worker holds your Anthropic API key as a private secret and forwards
 // requests from the Roper Diet Guide page to Anthropic's API. This keeps the
